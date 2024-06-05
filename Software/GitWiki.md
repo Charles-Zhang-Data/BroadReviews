@@ -7,8 +7,11 @@ Don't use moving forward.
 ## Reviews
 
 * Nice out-of-box features, but like everything, it's limiting.
-* Navigation is impossible to use. Generated table of contents is very ugly.
+* Navigation is impossible to use. Generated table of contents is very ugly. Honestly worse than Confluence in terms of hierarchical navigation.
 * SideBar is impossible to use and configurations are not feature complete.
+* Haven't used much but not confident in how the "Search" function might work.
+
+The only good thing is it's Markdown based so we are future-proof if we want to build custom solution.
 
 ## TODO
 
