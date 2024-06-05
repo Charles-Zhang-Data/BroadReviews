@@ -10,6 +10,7 @@ Don't use moving forward.
 * Navigation is impossible to use. Generated table of contents is very ugly. Honestly worse than Confluence in terms of hierarchical navigation. The lack of hierarchical navigation honestly makes it impossible to use out of the box if we have dedicated MD files for each entry.
 * SideBar is impossible to use and configurations are not feature complete.
 * Haven't used much but not confident in how the "Search" function might work.
+* The git-editing features are very easy to implement on our own with generated HTMLs.
 
 The only good thing is it's Markdown based so we are future-proof if we want to build custom solution.
 
